@@ -20,5 +20,5 @@ gotham = { path = "../../gotham", version = "0.6.0", default-features = false }
 gotham_derive = { path = "../../gotham_derive", version = "0.6.0" }
 serde = "1.0"
 serde_derive = "1.0"
-jsonwebtoken = "7.0"
+jsonwebtoken = "8.0"
 log = "0.4"
